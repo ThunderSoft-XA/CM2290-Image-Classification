@@ -1,0 +1,7 @@
+Hello everyone, now I show you is based on CM2290 image action recognition AI Demo. 
+
+Image classification is a machine learning task that identifies the kinds of object of an image. The image classification model is trained on an image data set containing a unique set of classes, such as different colors or sizes. The model takes an image frame as input and outputs the probability that each class is represented in the image.
+
+Both image classification models and image classification models use images as input to predict the probability that these images belong to predefined categories.
+For example, a image motion-recognition model could be trained to recognize different color of a meachine keyborad , mouses of different brands and sizes of monitor. 
+Below is the output of a image classification model on Android. All right, that's the end of the demo

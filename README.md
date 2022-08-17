@@ -1,1 +1,0 @@
-# CM2290-Image-Classification
